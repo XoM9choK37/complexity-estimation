@@ -31,10 +31,8 @@ def matrix_prod(M, N):
     for i in range():
         for j in range():
             
-        
-
-
-
+            
+            
 u = [Number(1), Number(-3), Number(4)]
 v = [Number(2), Number(5), Number(-1)]
 
