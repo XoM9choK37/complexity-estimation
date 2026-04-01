@@ -6,3 +6,6 @@
 3: на зачёте один вопрос по теории и один вопрос по практике;
 4: на зачёте один вопрос по теории;
 5: самозачёт.
+
+### Conda environment \/ \/ \/ 
+conda create --name complexity-estimation python=3.10 && conda activate complexity-estimation && conda install conda-forge::matplotlib
